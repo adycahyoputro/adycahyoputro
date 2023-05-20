@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adycahyoputro
-- 👀 I’m interested in java
-- 🌱 I’m currently learning spring boots
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me @adycahyoputro
 
